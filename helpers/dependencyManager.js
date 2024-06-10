@@ -1,7 +1,7 @@
 const shell = require("shelljs");
 
 const PACKAGE_LOCK_FILE = "package-lock.json";
-const PNPM_LOCK_FILE = "pnpm-lock.json";
+const PNPM_LOCK_FILE = "pnpm-lock.yaml";
 const NPM_COMMAND = "npm";
 const YARN_COMMAND = "yarn";
 const PNPM_COMMAND = "pnpm";
