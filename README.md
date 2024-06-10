@@ -24,7 +24,7 @@ $ npm install -g rn-game-over
 
 ## Dependency manager
 
-This script has command support for both [npm](https://docs.npmjs.com/cli/npm) and [yarn](https://yarnpkg.com/lang/en/).
+This script has command support for [pnpm](https://pnpm.io/), [npm](https://docs.npmjs.com/cli/npm) and [yarn](https://yarnpkg.com/lang/en/).
 
 ## Options descriptions
 
